@@ -27,8 +27,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Gabriel-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" width="250" alt="Rafa-yoda" src="https://i.pinimg.com/originals/5a/a9/67/5aa967c7c075ef6bcad073dbb91feaa5.gif">
+  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
+  <img align="right" width="250" alt="Gabriel-Smiling-Luffy" src="https://i.pinimg.com/originals/5a/a9/67/5aa967c7c075ef6bcad073dbb91feaa5.gif">
 </div>
   
   ##
