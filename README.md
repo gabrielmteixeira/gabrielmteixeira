@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Research Assistant at DCC/UFMG; CIS undergraduate student at UFMG.
+
+Passionate about being a part of relevant solutions.
+
+I’m a Backend Software Engineer with a little over two years of experience acquired in research projects and part-time jobs. Through this time, I’ve had the opportunity to work with several different languages, frameworks and technological tools. If one of them is listed here, it means I’ve had at least a few experiences with solving reasonably complex real-world problems with it.
+
 <!--
 **gabrielmteixeira/gabrielmteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,7 +43,7 @@ Here are some ideas to get you started:
   ##
   
 <div> 
-  <a href="https://instagram.com/gabriel6a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gabriel_m_teixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.teixeira.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-teixeira-499b451a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       
