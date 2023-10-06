@@ -5,7 +5,7 @@ Research Assistant at DCC/UFMG; CIS undergraduate student at UFMG.
 Passionate about being a part of relevant solutions.
 
 I’m a Backend Software Engineer with a little over two years of experience acquired in research projects and part-time jobs. Through this time, I’ve had the opportunity to work with several different languages, frameworks and technological tools. If one of them is listed here, it means I’ve had at least a few experiences with solving reasonably complex real-world problems with it.
-
+<br /><br />
 <!--
 **gabrielmteixeira/gabrielmteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
